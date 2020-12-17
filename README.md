@@ -1,5 +1,5 @@
-Console application
-Regular expressions exersise
+Console application<br/>
+Regular expressions exercise
 
 # NetherRealms
 Mighty battle is coming. In the stormy nether realms, demons are fighting against each other for supremacy in a duel from which only one will survive. <br/>
