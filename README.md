@@ -1,3 +1,6 @@
+Console application
+Regular expressions exersise
+
 # NetherRealms
 Mighty battle is coming. In the stormy nether realms, demons are fighting against each other for supremacy in a duel from which only one will survive. <br/>
 Your job, however is not so exciting. You are assigned to __sign in all the participants__ in the nether realm's mighty battle's demon book, which of course is __sorted alphabetically__. <br/>
